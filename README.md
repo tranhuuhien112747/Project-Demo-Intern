@@ -7,4 +7,4 @@ tạo branch riêng mình
 code thì commit/ push lên branch của mình, k push lên nhánh main
 
 tên branch tên project.họ tên-bên code
-ví dụ : Internet-Management.Hien-BE  hoặc Internet-Management.Hien-FE
+ví dụ : Hien-BE.InternetManagement , Tu-FE.InternetManagement
